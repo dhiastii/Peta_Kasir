@@ -1,0 +1,15 @@
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\bin\Debug\net6.0\Peta_Kasir.exe
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\bin\Debug\net6.0\Peta_Kasir.deps.json
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\bin\Debug\net6.0\Peta_Kasir.runtimeconfig.json
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\bin\Debug\net6.0\Peta_Kasir.dll
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\bin\Debug\net6.0\Peta_Kasir.pdb
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\obj\Debug\net6.0\Peta_Kasir.csproj.AssemblyReference.cache
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\obj\Debug\net6.0\Peta_Kasir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\obj\Debug\net6.0\Peta_Kasir.AssemblyInfoInputs.cache
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\obj\Debug\net6.0\Peta_Kasir.AssemblyInfo.cs
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\obj\Debug\net6.0\Peta_Kasir.csproj.CoreCompileInputs.cache
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\obj\Debug\net6.0\Peta_Kasir.dll
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\obj\Debug\net6.0\refint\Peta_Kasir.dll
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\obj\Debug\net6.0\Peta_Kasir.pdb
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\obj\Debug\net6.0\Peta_Kasir.genruntimeconfig.cache
+C:\Users\dhias\source\repos\Peta_Kasir\Peta_Kasir\obj\Debug\net6.0\ref\Peta_Kasir.dll
