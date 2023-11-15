@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class Program
+public class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
         // List untuk menyimpan barang yang dibeli dan harganya
         List<Barang> keranjangBelanja = new List<Barang>();
@@ -34,7 +34,7 @@ class Program
         }
     }
 
-    static void TambahBarang(List<Barang> keranjang)
+    public static void TambahBarang(List<Barang> keranjang)
     {
         Console.WriteLine("Masukkan Nama Barang: ");
         string nama = Console.ReadLine();
@@ -51,7 +51,7 @@ class Program
         Console.WriteLine("Barang berhasil ditambahkan ke keranjang.");
     }
 
-    static void LihatKeranjangBelanja(List<Barang> keranjang)
+    public static void LihatKeranjangBelanja(List<Barang> keranjang)
     {
         Console.WriteLine("Keranjang Belanja:");
         foreach (Barang barang in keranjang)
@@ -60,7 +60,7 @@ class Program
         }
     }
 
-    static void SelesaiBelanja(List<Barang> keranjang)
+    public static void SelesaiBelanja(List<Barang> keranjang)
     {
         decimal total = 0;
         foreach (Barang barang in keranjang)
@@ -92,7 +92,7 @@ class Program
     }
 }
 
-class Barang
+public class Barang
 {
     public string Nama { get; set; }
     public decimal Harga { get; set; }
